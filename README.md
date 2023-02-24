@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Agwata9
-- 👀 I’m software engineer, **A DevOps engineer**
+- 👀 I’m A full-stack engineer, **a DevOps engineer** & IT consultant. 
 - 🌱 I’m currently learning software engineering ***ALX Africa*** and 
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me twitter handles :- agwata9
