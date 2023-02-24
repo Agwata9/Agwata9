@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Agwata9
-- 👀 I’m interested in becoming  asoftware engineer
-- 🌱 I’m currently learning software engineering
+- 👀 I’m software engineer, **A DevOps engineer**
+- 🌱 I’m currently learning software engineering ***ALX Africa*** and 
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me twitter handles.. agwata9
+- 📫 How to reach me twitter handles :- agwata9
 
 <!---
 Agwata9/Agwata9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
